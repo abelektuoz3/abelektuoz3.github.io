@@ -1,0 +1,160 @@
+body {
+  background-color: rgb(14, 47, 76);
+}
+/*section 1*/
+.section-1 {
+  text-align: center;
+}
+.section-1 img {
+  border-radius: 30px;
+}
+.s1-txt {
+  color: rgb(24, 38, 161);
+  font-size: 30px;
+  font-family: Arial;
+  font-style: italic;
+  padding-left: 50px;
+}
+
+/*button*/
+.b1 {
+  font-size: 20px;
+  color: rgba(192, 202, 191, 0.445);
+  background-color: rgb(17, 17, 71);
+  padding: 10px 20px;
+  border: 20px;
+  border-radius: 30px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.b1:hover {
+  color: silver;
+  background-color: blue;
+  transition: all 0.3s ease;
+}
+.b2 {
+  font-size: 20px;
+  color: rgba(192, 202, 191, 0.445);
+  background-color: rgb(17, 17, 71);
+  padding: 10px 20px;
+  border: 20px;
+  border-radius: 30px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.b2:hover {
+  color: silver;
+  background-color: blue;
+  transition: all 0.3s ease;
+}
+/*section 2*/
+.section-2-txt {
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 45px;
+}
+.section2-flex {
+  display: flex;
+  justify-content: space-around;
+}
+.section-2 img {
+  border-radius: 30px;
+}
+/*s2-p1*/
+.s2-txt1 {
+  color: rgb(161, 24, 60);
+  font-size: 30px;
+  font-family: Arial;
+  font-style: italic;
+  padding-left: 50px;
+}
+/*s2-p2*/
+.s2-txt2 {
+  color: rgb(161, 24, 60);
+  font-size: 30px;
+  font-family: Arial;
+  font-style: italic;
+  padding-left: 50px;
+}
+/*button*/
+.button-1 {
+  text-align: center;
+}
+.button-2 {
+  text-align: center;
+}
+.b1-s2 {
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(49, 62, 66);
+  padding: 10px 20px;
+  border: 20px;
+  border-radius: 30px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.b1-s2:hover {
+  color: rgba(255, 0, 81, 0.768);
+  background-color: black;
+  transition: all 0.3s ease;
+}
+.b2-s2 {
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(49, 62, 66);
+  padding: 10px 20px;
+  border: 20px;
+  border-radius: 30px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.b2-s2:hover {
+  color: rgba(255, 0, 81, 0.768);
+  background-color: black;
+  transition: all 0.3s ease;
+}
+/*section 3*/
+.section-3 {
+  text-align: center;
+}
+.section-3 img {
+  border-radius: 30px;
+}
+.s3-txt {
+  color: green;
+  font-size: 30px;
+  font-family: Arial;
+  font-style: italic;
+  padding-left: 50px;
+}
+/*button*/
+.b1-s3 {
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  background-color: black;
+  padding: 10px 20px;
+  border: 20px;
+  border-radius: 30px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.b1-s3:hover {
+  color: purple;
+  background-color: green;
+  transition: all 0.3s ease;
+}
+.b2-s3 {
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  background-color: black;
+  padding: 10px 20px;
+  border: 20px;
+  border-radius: 30px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.b2-s3:hover {
+  color: purple;
+  background-color: green;
+  transition: all 0.3s ease;
+}

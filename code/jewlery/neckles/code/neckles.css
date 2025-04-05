@@ -1,0 +1,181 @@
+body {
+  background-color: rgb(14, 47, 76);
+}
+/*section 1*/
+.section-1 {
+  text-align: center;
+}
+.section-1 img {
+  border-radius: 30px;
+}
+.s1-txt {
+  font-size: 30px;
+  font-family: Arial;
+  font-style: italic;
+  padding-left: 50px;
+}
+/*button*/
+.b1-s1 {
+  font-size: 20px;
+  color: gold;
+  background-color: rgb(17, 17, 71);
+  padding: 10px 20px;
+  border: 20px;
+  border-radius: 30px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.b1-s1:hover {
+  color: white;
+  background-color: black;
+  transition: all 0.3s ease;
+}
+.b2-s1 {
+  font-size: 20px;
+  color: gold;
+  background-color: rgb(17, 17, 71);
+  padding: 10px 20px;
+  border: 20px;
+  border-radius: 30px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.b2-s1:hover {
+  color: white;
+  background-color: black;
+  transition: all 0.3s ease;
+}
+/*section-2*/
+.section-2 {
+  text-align: center;
+}
+.section-2 img {
+  border-radius: 30px;
+}
+.s2-txt {
+  color: pink;
+  font-size: 30px;
+  font-family: Arial;
+  font-style: italic;
+  padding-left: 50px;
+}
+/*button*/
+.b1-s2 {
+  font-size: 20px;
+  color: gold;
+  background-color: rgb(17, 17, 71);
+  padding: 10px 20px;
+  border: 20px;
+  border-radius: 30px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.b1-s2:hover {
+  color: white;
+  background-color: pink;
+  transition: all 0.3s ease;
+}
+.b2-s2 {
+  font-size: 20px;
+  color: gold;
+  background-color: rgb(17, 17, 71);
+  padding: 10px 20px;
+  border: 20px;
+  border-radius: 30px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.b2-s2:hover {
+  color: white;
+  background-color: pink;
+  transition: all 0.3s ease;
+}
+/*section 3*/
+.section-3 {
+  text-align: center;
+}
+.section-3 img {
+  border-radius: 30px;
+}
+.s3-txt {
+  font-size: 30px;
+  font-family: Arial;
+  font-style: italic;
+  padding-left: 50px;
+}
+/*button*/
+.b1-s3 {
+  font-size: 20px;
+  color: gold;
+  background-color: rgb(17, 17, 71);
+  padding: 10px 20px;
+  border: 20px;
+  border-radius: 30px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.b1-s3:hover {
+  color: white;
+  background-color: black;
+  transition: all 0.3s ease;
+}
+.b2-s3 {
+  font-size: 20px;
+  color: gold;
+  background-color: rgb(17, 17, 71);
+  padding: 10px 20px;
+  border: 20px;
+  border-radius: 30px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.b2-s3:hover {
+  color: white;
+  background-color: black;
+  transition: all 0.3s ease;
+}
+/*section*/
+.section-4 {
+  text-align: center;
+}
+.section-4 img {
+  border-radius: 30px;
+}
+.s4-txt {
+  color: blue;
+  font-size: 30px;
+  font-family: Arial;
+  font-style: italic;
+  padding-left: 50px;
+}
+/*button*/
+.b1-s4 {
+  font-size: 20px;
+  color: white;
+  background-color: black;
+  padding: 10px 20px;
+  border: 20px;
+  border-radius: 30px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.b1-s4:hover {
+  color: silver;
+  background-color: blue;
+  transition: all 0.3s ease;
+}
+.b2-s4 {
+  font-size: 20px;
+  color: white;
+  background-color: black;
+  padding: 10px 20px;
+  border: 20px;
+  border-radius: 30px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.b2-s4:hover {
+  color: silver;
+  background-color: blue;
+  transition: all 0.3s ease;
+}

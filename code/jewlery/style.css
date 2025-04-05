@@ -1,0 +1,106 @@
+body {
+  background-color: rgb(14, 47, 76);
+}
+/*header*/
+.header-contents ul li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  text-decoration: none;
+}
+.header ul {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+.header a {
+  color: rgb(86, 164, 164);
+  text-decoration: none;
+}
+.header ul li {
+  font-family: Arial;
+}
+.header a:hover {
+  color: gold;
+  border: 3px solid gold;
+  border-radius: 30px;
+  padding: 5px;
+  transition: all 0.3s ease;
+}
+.header img {
+  width: 18px;
+}
+/*section 1*/
+.section-1 {
+  text-align: center;
+}
+.section-1 img {
+  border-radius: 30px;
+}
+.s1-txt {
+  color: white;
+  font-size: 30px;
+  font-family: Arial;
+  font-style: italic;
+  padding-left: 50px;
+}
+/*button*/
+.b1 {
+  font-size: 20px;
+  color: white;
+  background-color: blue;
+  padding: 10px 20px;
+  border: 20px;
+  border-radius: 30px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.b1:hover {
+  color: white;
+  background-color: gold;
+  transition: all 0.3s ease;
+}
+.b2 {
+  font-size: 20px;
+  color: white;
+  background-color: blue;
+  padding: 10px 20px;
+  border: 20px;
+  border-radius: 30px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.b2:hover {
+  color: white;
+  background-color: gold;
+  transition: all 0.3s ease;
+}
+/*section 2*/
+.section-2 {
+  text-align: center;
+}
+.section-2 img {
+  border-radius: 30px;
+}
+.s2-txt {
+  color: rgba(139, 171, 24, 0.532);
+  font-size: 30px;
+  font-family: Arial;
+  font-style: italic;
+  padding-left: 50px;
+}
+/*section 3*/
+.section-3 {
+  text-align: center;
+}
+.section-3 img {
+  border-radius: 30px;
+}
+.s3-txt {
+  color: green;
+  font-size: 30px;
+  font-family: Arial;
+  font-style: italic;
+  padding-left: 50px;
+}
