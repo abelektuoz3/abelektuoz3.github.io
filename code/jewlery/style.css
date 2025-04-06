@@ -45,7 +45,11 @@ body {
   font-style: italic;
   padding-left: 50px;
 }
+
+
 /*button*/
+
+
 .b1 {
   font-size: 20px;
   color: white;
@@ -76,7 +80,11 @@ body {
   background-color: gold;
   transition: all 0.3s ease;
 }
+
+
 /*section 2*/
+
+
 .section-2 {
   text-align: center;
 }
@@ -90,7 +98,11 @@ body {
   font-style: italic;
   padding-left: 50px;
 }
+
+
 /*section 3*/
+
+
 .section-3 {
   text-align: center;
 }
